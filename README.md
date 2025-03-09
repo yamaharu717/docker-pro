@@ -1,2 +1,3 @@
-# イメージの作成コマンド
+イメージの作成コマンド
 docker image build --t docker-pro .
+
