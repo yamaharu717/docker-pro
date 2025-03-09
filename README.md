@@ -7,9 +7,9 @@ docker image ls
 # コンテナの起動
 docker container run --publish 8080:80 --name docker-pro-container docker-pro-image
 
-#起動されているコンテナを確認するコマンド
+# 起動されているコンテナを確認するコマンド
 docker container ls
 
-#サーバの起動確認
+# サーバの起動確認
 http://localhost:8080
 
